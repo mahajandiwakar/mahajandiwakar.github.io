@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I’m a Senior Research Software Engineer at IBM Research in the Healthcare & Life Sciences group, where I design and build multimodal AI systems and LLM-based agents for accelerating drug discovery. My current work focuses on aligning structured biological data—such as molecular representations and protein sequences—with large language models to enable richer reasoning, retrieval, and decision support for biomedical researchers working on target screening and therapeutic design. 
 
-I'm an Applied Scientist and Machine Learning Research Engineer at IBM Research with 10+ years of experience developing multimodal learning systems, advancing clinical NLP, and aligning structured, textual, molecular, and protein data with large language models. Specialized in LLM finetuning, cross-modal embedding alignment, contrastive learning, Retrieval-Augmented Generation (RAG), and advanced representation learning for biomedical and life-science applications. Experienced in designing agentic LLM workflows, leading multidisciplinary research efforts, and conducting large-scale evaluations of language models for EHR reasoning and biomedical understanding. 
-Recognized through multiple national clinical NLP challenge wins and impactful collaborations across healthcare and scientific organizations, with expertise in distributed training, data-efficient modeling, and end-to-end AI pipeline development.
+Before focusing on drug discovery workflows, I worked extensively with Electronic Health Records (EHRs), tackling the full spectrum of clinical NLP problems—from question answering over EHR data and clinical summarization to large-scale benchmarking of domain-specific versus general-purpose language models. This included building clinical foundation models, evaluating their reasoning over longitudinal patient records, and contributing to multiple award-winning systems for clinical NLP challenges.
+
+Prior to joining IBM Research in 2016, I completed my Master of Science in Computer Science (with a focus on Natural Language Processing) at Columbia University in Fall 2015. 
 
 [My CV](https://mahajandiwakar.github.io/files/Resume_MahajanDiwakar.pdf)
 
