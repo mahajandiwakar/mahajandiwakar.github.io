@@ -43,7 +43,7 @@ Keerthiram Murugesan, Sarathkrishna Swaminathan, Soham Dan, Subhajit Chaudhury, 
 Findings of the Association for Computational Linguistics (ACL), 2023. [Paper](https://aclanthology.org/2023.findings-acl.274.pdf)
 
 - <font color="DarkRed">Toward Understanding Clinical Context of Medication Change Events in Clinical Narratives</font> 
-<b>Diwakar Mahajan</b>, Jennifer J Liang 1, Ching-Huei Tsou <br /> 
+<b>Diwakar Mahajan</b>, Jennifer J Liang, Ching-Huei Tsou <br /> 
 AMIA Annual Symposium Proceedings, 2021. [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8861744/)
 
 - <font color="DarkRed">IBMResearch at MEDIQA 2021: toward improving factual correctness of radiology report abstractive summarization</font> 
@@ -61,6 +61,10 @@ Nancy X. R. Wang, <b>Diwakar Mahajan</b>, Marina Danilevsky, Sara Rosenthal <br 
 - <font color="DarkRed">AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19</font> 
 Parthasarathy Suryanarayanan, Ching-Huei Tsou, Ananya Poddar, <b>Diwakar Mahajan</b>, Bharath Dandala, Piyush Madan, Anshul Agrawal, Charles Wachira, Osebe Mogaka Samuel, Osnat Bar-Shira, Clifton Kipchirchir, Sharon Okwako, William Ogallo, Fred Otieno, Timothy Nyota, Fiona Matu, Vesna Resende Barros, Daniel Shats, Oren Kagan, Sekou Remy, Oliver Bent, Pooja Guhan, Shilpa Mahatma, Aisha Walcott-Bryant, Divya Pathak, Michal Rosen-Zvi <br /> 
 Nature, Scientific Data, 2021. [Paper](https://www.nature.com/articles/s41597-021-00878-y)
+
+- <font color="DarkRed">Toward Understanding Clinical Context of Medication Change Events in Clinical Narratives</font> 
+<b>Diwakar Mahajan</b>, Jennifer J Liang, Ching-Huei Tsou <br /> 
+Machine Learning for Health (ML4H) at NeurIPS, 2020. [Paper](https://ml4h.cc/2020/pages/extended-abstracts.html)
 
 
 
