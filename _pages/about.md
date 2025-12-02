@@ -43,9 +43,14 @@ Keerthiram Murugesan, Sarathkrishna Swaminathan, Soham Dan, Subhajit Chaudhury, 
 <br /> 
 Findings of the Association for Computational Linguistics (ACL), 2023. [Paper](https://aclanthology.org/2023.findings-acl.274.pdf)
 
+- <font color="DarkRed">National NLP Clinical Challenges (n2c2) - Contextualized Medication Event Extraction Challenge</font>
+<span class="role-tag">Workshop Organizer</span> <br /> 
+<b>Diwakar Mahajan</b>, Ching-Huei Tsou, Jennifer J Liang, Özlem Uzuner <br /> 
+National NLP Clinical Challenges (n2c2) - American Medical Informatics Association (AMIA), 2022. [Link](https://n2c2.dbmi.hms.harvard.edu/2022-track-1)
+
 - <font color="DarkRed">Toward Understanding Clinical Context of Medication Change Events in Clinical Narratives</font> 
 <b>Diwakar Mahajan</b>, Jennifer J Liang, Ching-Huei Tsou <br /> 
-AMIA Annual Symposium Proceedings, 2021. [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8861744/)
+American Medical Informatics Association (AMIA) Annual Symposium Proceedings, 2021. [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8861744/)
 
 - <font color="DarkRed">IBMResearch at MEDIQA 2021: toward improving factual correctness of radiology report abstractive summarization</font> <span class="award-badge">🏆 2nd Place Award - MEDIQA Challenge 2021</span> <br /> 
 <b>Diwakar Mahajan</b>, Ching-Huei Tsou, Jennifer J Liang <br /> 
@@ -56,8 +61,9 @@ Preethi Raghavan, <b>Diwakar Mahajan</b>, Jennifer J Liang, Rachita Chandra, Pet
 Proceedings of the 20th Workshop on Biomedical Language Processing, Association for Computational Linguistics (ACL), 2021. [Paper](https://aclanthology.org/2021.semeval-1.39/)
 
 - <font color="DarkRed">SemEval-2021 Task 9: Fact Verification and Evidence Finding for Tabular Data in Scientific Documents (SEM-TAB-FACTS)</font> 
+<span class="role-tag">Workshop Organizer</span> <br /> 
 Nancy X. R. Wang, <b>Diwakar Mahajan</b>, Marina Danilevsky, Sara Rosenthal <br /> 
-<span class="role-tag">Co-Organizer</span> Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), Association for Computational Linguistics (ACL), 2021. [Paper](https://aclanthology.org/anthology-files/pdf/bionlp21/2021.bionlp21-1.pdf#page=80)
+ Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), Association for Computational Linguistics (ACL), 2021. [Paper](https://aclanthology.org/anthology-files/pdf/bionlp21/2021.bionlp21-1.pdf#page=80)
 
 - <font color="DarkRed">AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19</font> <span class="award-badge">🏆 IBM Outstanding Technical Achievement Award</span><br /> 
 Parthasarathy Suryanarayanan, Ching-Huei Tsou, Ananya Poddar, <b>Diwakar Mahajan</b>, Bharath Dandala, Piyush Madan, Anshul Agrawal, Charles Wachira, Osebe Mogaka Samuel, Osnat Bar-Shira, Clifton Kipchirchir, Sharon Okwako, William Ogallo, Fred Otieno, Timothy Nyota, Fiona Matu, Vesna Resende Barros, Daniel Shats, Oren Kagan, Sekou Remy, Oliver Bent, Pooja Guhan, Shilpa Mahatma, Aisha Walcott-Bryant, Divya Pathak, Michal Rosen-Zvi <br /> 
