@@ -399,3 +399,25 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.role-tag,
+.award-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-right: 6px;
+}
+
+/* tweak colors as you like */
+.role-tag {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+.award-badge {
+  background: #ffe0b2;
+  color: #e65100;
+}

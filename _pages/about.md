@@ -27,13 +27,14 @@ American Chemical Society (ACS) Fall Meeting, 2024. [Paper](https://arxiv.org/pd
 
 - <font color="DarkRed"> Clinical natural language processing for secondary uses</font>
 Yanjun Gao, <b>Diwakar Mahajan</b>, Özlem Uzuner, Meliha Yetisgen. <br /> 
-<i>Editorial,</i> Journal of Biomedical Informatics, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S1532046424000145) 
+<span class="role-tag">Editorial</span> Journal of Biomedical Informatics, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S1532046424000145) 
 
 - <font color="DarkRed"> Special Issue on Clinical Natural Language Processing for Secondary Use Applications (2024)</font> 
 Yanjun Gao, <b>Diwakar Mahajan</b>, Özlem Uzuner, Meliha Yetisgen. <br /> 
-<i>Guest Editor,</i> Journal of Biomedical Informatics, 2024. [Paper](https://www.sciencedirect.com/special-issue/103GCQB2NCX)
+<span class="role-tag">Guest Editor</span> Journal of Biomedical Informatics, 2024. [Paper](https://www.sciencedirect.com/special-issue/103GCQB2NCX)
 
-- <font color="DarkRed">Do we still need clinical language models?</font> 
+- <a href="https://proceedings.mlr.press/v209/eric23a/eric23a.pdf" style="text-decoration:none; color:DarkRed;">
+  Do we still need clinical language models?</a><br /> <span class="award-badge">🏆 Best Paper Award</span><br /> 
 Eric Lehman, Evan Hernandez, <b>Diwakar Mahajan</b>, Jonas Wulff, Micah J Smith, Zachary Ziegler, Daniel Nadler, Peter Szolovits, Alistair Johnson, Emily Alsentzer <br /> 
 Conference on Health, Inference, and Learning (CHIL), 2023. [Paper](https://proceedings.mlr.press/v209/eric23a/eric23a.pdf)
 
@@ -46,7 +47,7 @@ Findings of the Association for Computational Linguistics (ACL), 2023. [Paper](h
 <b>Diwakar Mahajan</b>, Jennifer J Liang, Ching-Huei Tsou <br /> 
 AMIA Annual Symposium Proceedings, 2021. [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8861744/)
 
-- <font color="DarkRed">IBMResearch at MEDIQA 2021: toward improving factual correctness of radiology report abstractive summarization</font> 
+- <font color="DarkRed">IBMResearch at MEDIQA 2021: toward improving factual correctness of radiology report abstractive summarization</font> <span class="award-badge">🏆 2nd Place Award - MEDIQA Challenge 2021</span> <br /> 
 <b>Diwakar Mahajan</b>, Ching-Huei Tsou, Jennifer J Liang <br /> 
 Proceedings of the 20th Workshop on Biomedical Language Processing, Association for Computational Linguistics (ACL), 2021. [Paper](https://aclanthology.org/2021.bionlp-1.35.pdf)
 
@@ -56,15 +57,25 @@ Proceedings of the 20th Workshop on Biomedical Language Processing, Association 
 
 - <font color="DarkRed">SemEval-2021 Task 9: Fact Verification and Evidence Finding for Tabular Data in Scientific Documents (SEM-TAB-FACTS)</font> 
 Nancy X. R. Wang, <b>Diwakar Mahajan</b>, Marina Danilevsky, Sara Rosenthal <br /> 
-<i>Co-Organizer,</i> Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), Association for Computational Linguistics (ACL), 2021. [Paper](https://aclanthology.org/anthology-files/pdf/bionlp21/2021.bionlp21-1.pdf#page=80)
+<span class="role-tag">Co-Organizer</span> Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), Association for Computational Linguistics (ACL), 2021. [Paper](https://aclanthology.org/anthology-files/pdf/bionlp21/2021.bionlp21-1.pdf#page=80)
 
-- <font color="DarkRed">AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19</font> 
+- <font color="DarkRed">AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19</font> <span class="award-badge">🏆 IBM Outstanding Technical Achievement Award</span><br /> 
 Parthasarathy Suryanarayanan, Ching-Huei Tsou, Ananya Poddar, <b>Diwakar Mahajan</b>, Bharath Dandala, Piyush Madan, Anshul Agrawal, Charles Wachira, Osebe Mogaka Samuel, Osnat Bar-Shira, Clifton Kipchirchir, Sharon Okwako, William Ogallo, Fred Otieno, Timothy Nyota, Fiona Matu, Vesna Resende Barros, Daniel Shats, Oren Kagan, Sekou Remy, Oliver Bent, Pooja Guhan, Shilpa Mahatma, Aisha Walcott-Bryant, Divya Pathak, Michal Rosen-Zvi <br /> 
 Nature, Scientific Data, 2021. [Paper](https://www.nature.com/articles/s41597-021-00878-y)
 
-- <font color="DarkRed">Toward Understanding Clinical Context of Medication Change Events in Clinical Narratives</font> 
-<b>Diwakar Mahajan</b>, Jennifer J Liang, Ching-Huei Tsou <br /> 
-Machine Learning for Health (ML4H) at NeurIPS, 2020. [Paper](https://ml4h.cc/2020/pages/extended-abstracts.html)
+- <font color="DarkRed">Identification of Semantically Similar Sentences in Clinical Notes: Iterative Intermediate Training Using Multi-Task Learning</font> <span class="award-badge">🏆 1st Place Award - National NLP Clinical Challenges (n2c2) 2019</span><br /> 
+<b>Diwakar Mahajan</b>, Ananya Poddar, Jennifer J Liang, Yen-Ting Lin, John M Prager, Parthasarathy Suryanarayanan, Preethi Raghavan, Ching-Huei Tsou <br />
+Journal of Medical Internet Research (JMIR) Medical Informatics, 2020. [Link](https://medinform.jmir.org/2020/11/e22508/)
+
+- <font color="DarkRed">A Hybrid Model for Drug-Drug Interaction Extraction from Structured Product Labeling Documents</font>  <span class="award-badge">🏆 1st Place Award</span><br /> 
+<b>Diwakar Mahajan</b>, Ananya Poddar, Yen-Ting Lin <br /> 
+Text Analytics Conference, 2019. [Link](https://tac.nist.gov/publications/2019/participant.papers/TAC2019.IBMResearch.proceedings.pdf)
+
+- <font color="DarkRed">IBM Research System at TAC 2018: Deep Learning architectures for
+Drug-Drug Interaction extraction from Structured Product Labels</font>  <span class="award-badge">🏆 2nd Place Award</span><br /> 
+Bharath Dandala, <b>Diwakar Mahajan</b>, Ananya Poddar<br /> 
+Text Analytics Conference, 2018. [Link](https://tac.nist.gov/publications/2018/participant.papers/TAC2018.IBMResearch.proceedings.pdf)
+
 
 
 
